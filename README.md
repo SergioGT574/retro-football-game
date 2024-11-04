@@ -15,7 +15,7 @@ Player 2: Arrow keys for movement.
 - **Goal Detection & Win Condition**: Automatic goal tracking with a winning score of 8, followed by a celebratory confetti animation for the victor.
 - **Retro Football Field Design**: Classic field layout with a center line, penalty boxes, and goal areas for a complete retro look.
 
-## Screeshot
-!.[game menu](https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootmenu.png)
+## Screenshot
+![game menu](https://raw.githubusercontent.com/SergioGT574/retro-football-game/main/retrofootmenu.png)
 
-!.[game screen](https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootgame.png)
+![game screen](https://raw.githubusercontent.com/SergioGT574/retro-football-game/main/retrofootgame.png)

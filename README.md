@@ -19,3 +19,5 @@ Player 2: Arrow keys for movement.
 ![game menu](https://raw.githubusercontent.com/SergioGT574/retro-football-game/main/retrofootmenu.png)
 
 ![game screen](https://raw.githubusercontent.com/SergioGT574/retro-football-game/main/retrofootgame.png)
+
+![game winner](https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootwinner.png)

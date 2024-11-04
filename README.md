@@ -14,3 +14,8 @@ Player 2: Arrow keys for movement.
 - **Dynamic Ball Physics**: Realistic ball bounces, momentum changes based on player speed, and collisions.
 - **Goal Detection & Win Condition**: Automatic goal tracking with a winning score of 8, followed by a celebratory confetti animation for the victor.
 - **Retro Football Field Design**: Classic field layout with a center line, penalty boxes, and goal areas for a complete retro look.
+
+## Screeshot
+!.[Menu_screen](https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootmenu.png)
+
+!.[Game_screen](https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootgame.png)

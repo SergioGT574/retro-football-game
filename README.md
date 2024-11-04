@@ -16,6 +16,6 @@ Player 2: Arrow keys for movement.
 - **Retro Football Field Design**: Classic field layout with a center line, penalty boxes, and goal areas for a complete retro look.
 
 ## Screeshot
-(https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootmenu.png)
+!.[game menu](https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootmenu.png)
 
-!.[Game_screen](https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootgame.png)
+!.[game screen](https://raw.githubusercontent.com/SergioGT574/retro-football-game/refs/heads/main/retrofootgame.png)
